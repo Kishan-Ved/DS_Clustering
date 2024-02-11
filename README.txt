@@ -17,9 +17,5 @@ This webgraph is a page-page graph of verified Facebook sites. Nodes represent o
 | Density |  0.001 | 
 | Transitvity | 0.232| 
 
-Possible tasks
-
-- Multi-class node classification
-- Link prediction
-- Community detection
-- Network visualization
+Task:
+Find the top 5 densest clusters in the graph. Observe if they are closely knit communities.
